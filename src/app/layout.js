@@ -2,7 +2,7 @@ import NavBar from "@/components/NavBar";
 import "./globals.css";
 
 export const metadata = {
-  title: "Navbar Demo",
+  title: "DevKit",
   description: "",
 };
 
