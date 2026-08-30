@@ -132,9 +132,3 @@ The easiest way to deploy this project is through Vercel:
 1. Push the project to GitHub
 2. Import the repository into Vercel
 3. Deploy with a single click
-
----
-
-## Author
-
-GitHub: https://github.com/ALI-creator307
